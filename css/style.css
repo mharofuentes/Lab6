@@ -21,7 +21,7 @@
 	backgorund-color:#000;
 	text-decoration: underline overline;
 	}
-#sidebar{
+# sidebar{
 	position:fixed;
 	right:0%;
 	background-color:red;
